@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Bedrock Perfected",
+        "description": "Overhauling your Minecraft experience!",
+        "uuid": "14796fdf-56d3-4201-8626-4c0756952506",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "664a96a3-7c68-4cef-97f1-b25227fccf69",
+            "version": [1, 0, 0]
+        }
+    ]
+}
