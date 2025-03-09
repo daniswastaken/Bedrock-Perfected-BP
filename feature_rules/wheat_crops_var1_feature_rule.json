@@ -2,8 +2,8 @@
 	"format_version": "1.13.0",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "bedrock_perfected:wheat_crops_feature_rule",
-			"places_feature": "bedrock_perfected:wheat_crops_feature"
+			"identifier": "bedrock_perfected:wheat_crops_var1_feature_rule",
+			"places_feature": "bedrock_perfected:wheat_crops_var1_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",
