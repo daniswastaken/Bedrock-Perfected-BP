@@ -1,0 +1,23 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:structure_template_feature": {
+		"description": {
+			"identifier": "bedrock_perfected:beetroot_crops_va3_feature"
+		},
+		"structure_name": "mystructure:beetroot_crops_va3",
+		"adjustment_radius": 3,
+		"facing_direction": "random",
+		"constraints": {
+			"grounded": {},
+			"unburied": {},
+			"block_intersection": {
+				"block_allowlist": [
+                    "minecraft:grass",
+					"minecraft:short_grass",
+                    "minecraft:tall_grass",
+                    "minecraft:grass_block"
+				]
+			}
+		}
+	}
+}
