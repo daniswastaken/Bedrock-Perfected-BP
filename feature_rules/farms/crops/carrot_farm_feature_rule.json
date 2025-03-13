@@ -3,7 +3,7 @@
 	"minecraft:feature_rules": {
 		"description": {
 			"identifier": "bedrock_perfected:carrot_farm_feature_rule",
-			"places_feature": "bedrock_perfected:carrot_farm_feature"
+			"places_feature": "bedrock_perfected:farms/crops/carrot_farm_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",

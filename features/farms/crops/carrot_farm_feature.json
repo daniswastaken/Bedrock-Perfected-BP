@@ -2,9 +2,9 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:potato_farm_feature"
+			"identifier": "bedrock_perfected:farms/crops/carrot_farm_feature"
 		},
-		"structure_name": "mystructure:potato_farm",
+		"structure_name": "mystructure:carrot_farm",
 		"adjustment_radius": 4,
 		"facing_direction": "south",
 		"constraints": {

@@ -2,9 +2,9 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:beetroot_farm_feature"
+			"identifier": "bedrock_perfected:farms/crops/potato_farm_feature"
 		},
-		"structure_name": "mystructure:beetroot_farm",
+		"structure_name": "mystructure:potato_farm",
 		"adjustment_radius": 4,
 		"facing_direction": "south",
 		"constraints": {
@@ -16,7 +16,7 @@
                     "minecraft:short_grass",
                     "minecraft:tall_grass",
                     "minecraft:air"
-				] 
+				]
 			}
 		}
 	}
