@@ -5,7 +5,7 @@
 			"identifier": "bedrock_perfected:crops/carrot/carrot_crops_var1_feature"
 		},
 		"structure_name": "mystructure:carrot_crops_var1",
-		"adjustment_radius": 7,
+		"adjustment_radius": 4,
 		"facing_direction": "random",
 		"constraints": {
 			"grounded": {},
