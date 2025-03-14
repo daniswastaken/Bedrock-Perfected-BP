@@ -6,7 +6,7 @@
 		},
 		"structure_name": "mystructure:wheat_farm",
 		"adjustment_radius": 4,
-		"facing_direction": "south",
+		"facing_direction": "random",
 		"constraints": {
 			"grounded": {},
 			"unburied": {},

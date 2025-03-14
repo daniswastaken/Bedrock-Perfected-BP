@@ -2,11 +2,11 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:farms/crops/carrot_farm_feature"
+			"identifier": "bedrock_perfected:iron_carriage_feature"
 		},
-		"structure_name": "mystructure:carrot_farm",
+		"structure_name": "mystructure:iron_carriage",
 		"adjustment_radius": 4,
-		"facing_direction": "random",
+		"facing_direction": "south",
 		"constraints": {
 			"grounded": {},
 			"unburied": {},

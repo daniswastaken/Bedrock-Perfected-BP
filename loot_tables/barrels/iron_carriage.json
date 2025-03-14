@@ -8,41 +8,55 @@
 			"entries": [
 				{
 					"type": "item",
-					"name": "minecraft:bread",
+					"name": "minecraft:iron_nugget",
 					"functions": [
 						{
 							"function": "set_count",
 							"count": {
 								"min": 2,
-								"max": 6
+								"max": 9
 							}
 						}
 					],
-					"weight": 4
+					"weight": 50
 				},
 				{
 					"type": "item",
-					"name": "minecraft:emerald",
+					"name": "minecraft:raw_iron",
 					"functions": [
 						{
 							"function": "set_count",
 							"count": {
-								"min": 2,
-								"max": 4
+								"min": 4,
+								"max": 8
 							}
 						}
 					],
-					"weight": 1
+					"weight": 60
+				},
+				{
+					"type": "item",
+					"name": "minecraft:iron_ingot",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 6,
+								"max": 12
+							}
+						}
+					],
+					"weight": 40
 				},
                 {
 					"type": "item",
-					"name": "minecraft:apple",
+					"name": "minecraft:iron_block",
 					"functions": [
 						{
 							"function": "set_count",
 							"count": {
 								"min": 0,
-								"max": 3
+								"max": 1
 							}
 						}
 					],
