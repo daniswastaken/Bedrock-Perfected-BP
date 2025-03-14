@@ -5,13 +5,14 @@
 			"identifier": "bedrock_perfected:iron_carriage_feature"
 		},
 		"structure_name": "mystructure:iron_carriage",
-		"adjustment_radius": 4,
+		"adjustment_radius": 8,
 		"facing_direction": "south",
 		"constraints": {
 			"grounded": {},
 			"unburied": {},
 			"block_intersection": {
 				"block_allowlist": [
+					"minecraft:dead_bush",
 					"minecraft:snow",
                     "minecraft:short_grass",
                     "minecraft:tall_grass",
