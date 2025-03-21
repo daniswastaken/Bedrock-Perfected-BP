@@ -1,5 +1,6 @@
 {
     "values": [
-        "give_compass"
+        "give_compass",
+        "generate_coordinates_cmd"
     ]
 }
