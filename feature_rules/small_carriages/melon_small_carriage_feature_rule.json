@@ -2,8 +2,8 @@
 	"format_version": "1.13.0",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "bedrock_perfected:wheat_small_carriage_feature_rule",
-			"places_feature": "bedrock_perfected:wheat_small_carriage_feature"
+			"identifier": "bedrock_perfected:melon_small_carriage_feature_rule",
+			"places_feature": "bedrock_perfected:small_carriages/melon_small_carriage_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",
