@@ -11,7 +11,8 @@ Bedrock Perfected ("Licensed Addon") is an addon created to enhance the Minecraf
 2. SCOPE OF LICENSE
     2.1 You may not share or make the Licensed Addon available to third parties (unless explicitly permitted by the Usage Rules or with Kujira Hub's prior written consent), sell, rent, lend, lease or otherwise redistribute the Licensed Addon.
     2.2 You may not reverse engineer, translate, disassemble, integrate, decompile, remove, modify, combine, adapt, create derivative works, updates, or attempt to derive the source code of the Licensed Addon, or any part thereof (except with Kujira Hub's prior written consent).
-    2.3 Licensor reserves the right to modify the terms and conditions of licensing.
+    2.3 You are permitted to use the Licensed Addon in videos, streams, or other content creation, including monetized content, as long as proper credit is given to Kujira Hub and the addon name ("Bedrock Perfected") is clearly stated. You may not claim ownership or authorship of the Licensed Addon itself.
+    2.4 Licensor reserves the right to modify the terms and conditions of licensing.
 
 3. TECHNICAL REQUIREMENTS
     3.1 The Licensed Addon requires version 1.21 Minecraft Bedrock or higher. Licensor recommends using the latest supported Minecraft version for the addon.
