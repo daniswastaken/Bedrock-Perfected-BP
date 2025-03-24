@@ -3,7 +3,7 @@
 	"minecraft:feature_rules": {
 		"description": {
 			"identifier": "bedrock_perfected:diamond_carriage_feature_rule",
-			"places_feature": "bedrock_perfected:diamond_carriage_feature"
+			"places_feature": "bedrock_perfected:ore_carriages/diamond_carriage_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",

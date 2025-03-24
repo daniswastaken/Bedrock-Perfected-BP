@@ -2,9 +2,9 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:netherite_carriage_feature"
+			"identifier": "bedrock_perfected:ore_carriages/iron_carriage_feature"
 		},
-		"structure_name": "mystructure:netherite_carriage",
+		"structure_name": "mystructure:iron_carriage",
 		"adjustment_radius": 8,
 		"facing_direction": "south",
 		"constraints": {

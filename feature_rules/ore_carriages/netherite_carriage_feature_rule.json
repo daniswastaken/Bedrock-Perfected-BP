@@ -2,8 +2,8 @@
 	"format_version": "1.13.0",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "bedrock_perfected:emerald_carriage_feature_rule",
-			"places_feature": "bedrock_perfected:emerald_carriage_feature"
+			"identifier": "bedrock_perfected:netherite_carriage_feature_rule",
+			"places_feature": "bedrock_perfected:ore_carriages/netherite_carriage_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",
@@ -46,7 +46,7 @@
 			},
 			"scatter_chance": {
 				"numerator": 1,
-				"denominator": 3480
+				"denominator": 4096
 			}
 		}
 	}
