@@ -46,7 +46,7 @@
 			},
 			"scatter_chance": {
 				"numerator": 1,
-				"denominator": 4
+				"denominator": 512
 			}
 		}
 	}
