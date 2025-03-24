@@ -3,7 +3,7 @@
 	"minecraft:feature_rules": {
 		"description": {
 			"identifier": "bedrock_perfected:pumpkin_small_carriage_feature_rule",
-			"places_feature": "bedrock_perfected:pumpkin_small_carriage_featur"
+			"places_feature": "bedrock_perfected:pumpkin_small_carriage_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",
