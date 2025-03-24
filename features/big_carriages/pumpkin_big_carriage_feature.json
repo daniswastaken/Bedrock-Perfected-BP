@@ -2,9 +2,9 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:empty_big_carriage_feature"
+			"identifier": "bedrock_perfected:big_carriages/pumpkin_big_carriage_feature"
 		},
-		"structure_name": "mystructure:empty_big_carriage",
+		"structure_name": "mystructure:pumpkin_big_carriage",
 		"adjustment_radius": 16,
 		"facing_direction": "south",
 		"constraints": {
