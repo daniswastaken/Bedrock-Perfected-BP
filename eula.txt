@@ -1,0 +1,38 @@
+END-USER LICENSE AGREEMENT
+Last updated January 01, 2025
+
+Bedrock Perfected is licensed to You (End-User) by Kujira Hub, located at Perumahan Sumber Taman Indah, Blok A No. 7, Probolinggo, Jawa Timur 67237, Indonesia ("Licensor"), for use only under the terms of this EULA.
+By downloading the Licensed Addon You indicate that You agree to be bound by all of the terms and conditions of this EULA, and that You accept this EULA.
+Bedrock Perfected when downloaded is licensed to You for use only under the terms of this EULA. The Licensor reserves all rights not expressly granted to You.
+
+1. THE ADDON
+Bedrock Perfected ("Licensed Addon") is an addon created to enhance the Minecraft vanilla experience by adding more stuff like (including but not limited to) structures, mobs, and bosses.
+
+2. SCOPE OF LICENSE
+    2.1 You may not share or make the Licensed Addon available to third parties (unless explicitly permitted by the Usage Rules or with Kujira Hub's prior written consent), sell, rent, lend, lease or otherwise redistribute the Licensed Addon.
+    2.2 You may not reverse engineer, translate, disassemble, integrate, decompile, remove, modify, combine, adapt, create derivative works, updates, or attempt to derive the source code of the Licensed Addon, or any part thereof (except with Kujira Hub's prior written consent).
+    2.3 Licensor reserves the right to modify the terms and conditions of licensing.
+
+3. TECHNICAL REQUIREMENTS
+    3.1 The Licensed Addon requires version 1.21 Minecraft Bedrock or higher. Licensor recommends using the latest supported Minecraft version for the addon.
+    3.2 Licensor will attempt to keep the Licensed Addon updated to support new Minecraft versions. You are not granted rights to claim such an update.
+    3.3 The Licensor is under no obligation to provide support, maintenance, or updates for the Licensed Addon.
+    3.4 Licensor reserves the right to modify the technical specifications as it sees appropriate at any time.
+
+4. LIABILITY
+Licensor takes no responsibility or liability for any damages or claims resulting from copyright infringement or unauthorized use of the Licensed Addon. Any use, modification, or distribution of the Licensed Addon that violates this EULA or applicable copyright laws is strictly prohibited and may result in legal action.
+
+5. CONTACT INFORMATION
+For general inquiries, complaints, questions or claims concerning the Licensed Addon, please contact:
+Kujira Hub
+Perumahan Sumber Taman Indah, Blok A No. 7
+Probolinggo, Jawa Timur 67237
+Indonesia
+Email: kujirahub@gmail.com
+
+6. CONTRIBUTIONS
+Any contributions made to the Licensed Addon, including but not limited to textures, models, or code, become the property of Kujira Hub upon submission and may be used, modified, or removed at the Licensor’s discretion. Contributor credits may be removed if their contribution is (including but not limited to) deleted, replaced, or deemed unnecessary.
+
+7. TERMINATION
+    7.1 Kujira Hub reserves the right to revoke this license at any time, without prior notice, for any breach of the terms outlined in this EULA.
+    7.2 The license is valid until terminated by Kujira Hub or by You. Your rights under this license will terminate automatically and without notice from Kujira Hub if You fail to adhere to any term(s) of this license. Upon license termination, You shall stop all use of the Licensed Addon, and destroy all copies, full or partial, of the Licensed Addon.
