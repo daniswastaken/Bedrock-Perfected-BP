@@ -5,13 +5,19 @@
 			"identifier": "bedrock_perfected:small_carriages/melon_small_carriage_feature"
 		},
 		"structure_name": "mystructure:melon_small_carriage",
-		"adjustment_radius": 8,
+		"adjustment_radius": 16,
 		"facing_direction": "south",
 		"constraints": {
 			"grounded": {},
 			"unburied": {},
 			"block_intersection": {
 				"block_allowlist": [
+					"minecraft:bush",
+					"minecraft:firefly_bush",
+					"minecraft:leaf_litter",
+					"minecraft:short_dry_grass",
+					"minecraft:tall_dry_grass",
+					"minecraft:wildflowers",
 					"minecraft:dead_bush",
 					"minecraft:snow",
                     "minecraft:short_grass",
