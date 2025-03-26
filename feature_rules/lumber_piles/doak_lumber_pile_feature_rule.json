@@ -2,8 +2,8 @@
 	"format_version": "1.13.0",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "bedrock_perfected:birch_lumber_pile_feature_rule",
-			"places_feature": "bedrock_perfected:lumber_piles/birch_lumber_pile_feature"
+			"identifier": "bedrock_perfected:doak_lumber_pile_feature_rule",
+			"places_feature": "bedrock_perfected:lumber_piles/doak_lumber_pile_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",
@@ -11,7 +11,7 @@
 				{
 					"test": "has_biome_tag",
 					"operator": "==",
-					"value": "birch"
+					"value": "roofed_forest"
 				}
 			]
 		},
