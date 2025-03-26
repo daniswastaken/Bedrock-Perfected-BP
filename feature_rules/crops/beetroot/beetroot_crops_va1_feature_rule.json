@@ -36,6 +36,11 @@
                             "value": "beach"
                         },
                         {
+                            "test": "has_biome_tag",
+                            "operator": "!=",
+                            "value": "pale_garden"
+                        },
+                        {
                             "any_of": [
                                 {
                                     "test": "has_biome_tag",
