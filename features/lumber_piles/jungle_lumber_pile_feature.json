@@ -1,0 +1,30 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:structure_template_feature": {
+		"description": {
+			"identifier": "bedrock_perfected:lumber_piles/jungle_lumber_pile_feature"
+		},
+		"structure_name": "mystructure:jungle_lumber_pile",
+		"adjustment_radius": 16,
+		"facing_direction": "random",
+		"constraints": {
+			"grounded": {},
+			"unburied": {},
+			"block_intersection": {
+				"block_allowlist": [
+					"minecraft:bush",
+					"minecraft:firefly_bush",
+					"minecraft:leaf_litter",
+					"minecraft:short_dry_grass",
+					"minecraft:tall_dry_grass",
+					"minecraft:wildflowers",
+					"minecraft:snow",
+                    "minecraft:short_grass",
+                    "minecraft:tall_grass",
+					"minecraft:pink_petals",
+                    "minecraft:air"
+				]
+			}
+		}
+	}
+}
