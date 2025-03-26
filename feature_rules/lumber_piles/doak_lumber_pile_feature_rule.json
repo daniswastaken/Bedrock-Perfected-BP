@@ -11,7 +11,7 @@
 				{
 					"test": "has_biome_tag",
 					"operator": "==",
-					"value": "roofed_forest"
+					"value": "roofed"
 				}
 			]
 		},
