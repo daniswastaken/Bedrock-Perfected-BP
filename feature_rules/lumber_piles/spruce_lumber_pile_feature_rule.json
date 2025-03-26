@@ -113,11 +113,6 @@
 						{
 							"test": "has_biome_tag",
 							"operator": "!=",
-							"value": "forest"
-						},
-						{
-							"test": "has_biome_tag",
-							"operator": "!=",
 							"value": "flower_forest"
 						},
 						{
