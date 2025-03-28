@@ -12,7 +12,7 @@
 			"unburied": {},
 			"block_intersection": {
 				"block_allowlist": [
-					"minecraft:dead_bush",
+					"minecraft:deadbush",
 					"minecraft:snow",
                     "minecraft:short_grass",
                     "minecraft:tall_grass",
