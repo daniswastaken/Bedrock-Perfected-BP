@@ -2,8 +2,8 @@
 	"format_version": "1.13.0",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "bedrock_perfected:mangro_lumber_pile_feature_rule",
-			"places_feature": "bedrock_perfected:lumber_piles/mangro_lumber_pile_feature"
+			"identifier": "bedrock_perfected:stripped_mangro_lumber_pile_feature_rule",
+			"places_feature": "bedrock_perfected:stripped_lumber_piles/stripped_mangro_lumber_pile_feature"
 		},
 		"conditions": {
 			"placement_pass": "first_pass",
@@ -34,7 +34,7 @@
 			},
 			"scatter_chance": {
 				"numerator": 1,
-				"denominator": 10
+				"denominator": 24
 			}
 		}
 	}
