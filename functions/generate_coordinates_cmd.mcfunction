@@ -7,12 +7,16 @@ execute as @a [tag=!cmd] at @s run scoreboard objectives add z dummy z
 gamerule commandblockoutput false
 gamerule showcoordinates false
 
+# Disable red arrows
+# gamerule showtags false
+
 # Generate command block structure at XYZ
 execute as @a [tag=!cmd] at @s run structure load cmd 100000 100 100000
 
 # Add ticking area for cmd on XYZ
 execute as @a [tag=!cmd] at @s run tickingarea add 100000 99 99999 100000 119 100003 cmd
 
+# Stopping cmd from being generated continuously
 tag @a [tag=!cmd] add cmd
 
 # Show the coordinates on actionbar for player who hold Coordinates item

@@ -2,9 +2,9 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:tranquil_feature"
+			"identifier": "bedrock_perfected:direction_test_feature"
 		},
-		"structure_name": "mystructure:tranquil",
+		"structure_name": "mystructure:direction_test",
 		"adjustment_radius": 8,
 		"facing_direction": "random",
 		"constraints": {
