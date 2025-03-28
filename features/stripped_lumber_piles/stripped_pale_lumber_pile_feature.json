@@ -2,9 +2,9 @@
 	"format_version": "1.13.0",
 	"minecraft:structure_template_feature": {
 		"description": {
-			"identifier": "bedrock_perfected:lumber_piles/pale_lumber_pile_feature"
+			"identifier": "bedrock_perfected:stripped_lumber_piles/stripped_pale_lumber_pile_feature"
 		},
-		"structure_name": "mystructure:pale_lumber_pile",
+		"structure_name": "mystructure:spale_lp",
 		"adjustment_radius": 4,
 		"facing_direction": "random",
 		"constraints": {
