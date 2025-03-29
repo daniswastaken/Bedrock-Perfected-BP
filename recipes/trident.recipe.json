@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bedrock_perfected:trident"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": -1,
+		"pattern": [
+			" DQ",
+			" HD",
+			"S  "
+		],
+		"key": {
+			"Q": {
+				"item": "minecraft:quartz"
+			},
+			"D": {
+				"item": "minecraft:diamond"
+			},
+			"HD": {
+				"item": "minecraft:heart_of_the_sea"
+			},
+			"S": {
+				"item": "minecraft:prismarine_shard"
+			}
+		},
+		"unlock": [
+			{
+				"item": "minecraft:quartz"
+			},
+			{
+				"item": "minecraft:diamond"
+			},
+			{
+				"item": "minecraft:heart_of_the_sea"
+			},
+			{
+				"item": "prismarine_shard"
+			}
+		],
+		"result": {
+			"item": "minecraft:trident"
+		}
+	}
+}
