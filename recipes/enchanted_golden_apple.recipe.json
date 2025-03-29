@@ -1,0 +1,39 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bedrock_perfected:enchanted_golden_apple"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": -1,
+		"pattern": [
+			"GGG",
+			"GAG",
+			"GGG"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:apple"
+			},
+			"G": {
+				"item": "minecraft:gold_block"
+			}
+		},
+		"unlock": [
+			{
+				"item": "minecraft:apple"
+			},
+			{
+				"item": "minecraft:gold_block"
+			},
+			{
+				"item": "minecraft:golden_apple"
+			}
+		],
+		"result": {
+			"item": "minecraft:enchanted_golden_apple"
+		}
+	}
+}
