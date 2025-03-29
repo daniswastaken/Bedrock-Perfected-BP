@@ -7,7 +7,7 @@ execute as @a [tag=!cmd] at @s run scoreboard objectives add z dummy z
 gamerule commandblockoutput false
 gamerule showcoordinates false
 
-# Disable red arrows
+# Disable red arrows (gamerule to hide red locked item arrows)
 # gamerule showtags false
 
 # Generate command block structure at XYZ
