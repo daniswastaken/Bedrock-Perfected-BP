@@ -1,0 +1,39 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bedrock_perfected:iron_horse_armor"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": -1,
+		"pattern": [
+			"  X",
+			"XWX",
+			"XXX"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:iron_ingot"
+			},
+			"W": {
+				"item": "minecraft:white_wool"
+			}
+		},
+		"unlock": [
+			{
+				"item": "minecraft:leather_horse_armor"
+			},
+			{
+				"item": "minecraft:iron_ingot"
+			},
+			{
+				"item": "minecraft:white_wool"
+			}
+		],
+		"result": {
+			"item": "minecraft:iron_horse_armor"
+		}
+	}
+}
