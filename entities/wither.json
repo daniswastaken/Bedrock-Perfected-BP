@@ -13,7 +13,7 @@
       "minecraft:is_hidden_when_invisible": {
       },
       "minecraft:experience_reward": {
-        "on_death": "5800"
+        "on_death": "2800"
       },
       "minecraft:breathable": {
         "total_supply": 15,

@@ -12,7 +12,7 @@
       "minecraft:is_hidden_when_invisible": {
       },
       "minecraft:experience_reward": {
-        "on_death": "query.last_hit_by_player ? 10 : 0"
+        "on_death": "query.last_hit_by_player ? 1800 : 0"
       },
       "minecraft:collision_box": {
         "width": 1.99,
