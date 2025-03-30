@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:ender_eye",
+                    "name": "bedrock_perfected:eye_of_cow",
                     "weight": 1,
                     "functions": [
                         {
