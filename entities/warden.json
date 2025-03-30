@@ -30,8 +30,8 @@
         "value": 0.55
       },
       "minecraft:experience_reward": {
-        "on_bred": "Math.Random(3200,511)",
-        "on_death": "query.last_hit_by_player ? 5 : 0"
+        "on_bred": "Math.Random(1,7)",
+        "on_death": "query.last_hit_by_player ? 3600 : 0 "
       },
       "minecraft:attack": {
         "damage": 30
