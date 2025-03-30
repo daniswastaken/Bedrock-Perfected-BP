@@ -35,8 +35,8 @@
       "minecraft:jump.static": {
       },
       "minecraft:health": {
-        "value": 80,
-        "max": 80
+        "value": 420,
+        "max": 420
       },
       "minecraft:hurt_on_condition": {
         "damage_conditions": [
@@ -64,8 +64,8 @@
         "breathes_water": true
       },
       "minecraft:boss": {
-        "should_darken_sky": true,
-        "hud_range": 30
+        "should_darken_sky": false,
+        "hud_range": 10
       },
       "minecraft:home": {
         "restriction_type": "random_movement",
