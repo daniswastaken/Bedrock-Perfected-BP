@@ -71,6 +71,10 @@
         "total_supply": 15,
         "suffocate_time": 0
       },
+      "minecraft:boss": {
+        "should_darken_sky": false,
+        "hud_range": 50
+      },
       "minecraft:navigation.walk": {
         "can_path_over_water": true,
         "can_path_over_lava": true,
