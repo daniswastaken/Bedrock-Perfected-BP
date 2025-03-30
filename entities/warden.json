@@ -34,7 +34,7 @@
         "on_death": "query.last_hit_by_player ? 3600 : 0 "
       },
       "minecraft:attack": {
-        "damage": 30
+        "damage": 50
       },
       "minecraft:vibration_listener": {},
       "minecraft:vibration_damper": {},
